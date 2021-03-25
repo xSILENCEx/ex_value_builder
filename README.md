@@ -1,0 +1,2 @@
+# ex_value_builder
+在官方ValueListenableBuilder的基础上天加shouldRebuild方法
